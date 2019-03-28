@@ -222,4 +222,4 @@ class MTNet:
                   self.input_keep_prob : 1.0,
                   self.output_keep_prob :1.0,
                   self.lr: self.config.lr}
-        return fd;
+        return fd
